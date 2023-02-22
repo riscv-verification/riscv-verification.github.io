@@ -1,12 +1,14 @@
 var rvvi_api_8h =
 [
-    [ "RVVI_API_VERSION", "rvvi-api_8h.html#a0fb8d68189c3fc404d935a4f63c13ed9", null ],
+    [ "RVVI_API_VERSION_MAJOR", "rvvi-api_8h.html#a32082e9e6213b888a58667a9cd5a87bc", null ],
+    [ "RVVI_API_VERSION_MINOR", "rvvi-api_8h.html#a8c93473d15a4051d2c308f9aaafdecf1", null ],
     [ "RVVI_TRUE", "rvvi-api_8h.html#ac9e3c6faae58a2d46dd32800cd15071c", null ],
     [ "RVVI_FALSE", "rvvi-api_8h.html#ab452b73038b9502bdd1fc15f5f6a309f", null ],
     [ "RVVI_INVALID_INDEX", "rvvi-api_8h.html#a7c613d49188bbeedfedc362d4c4f7064", null ],
     [ "RVVI_MEMORY_PRIVILEGE_READ", "rvvi-api_8h.html#a7a4a30bda27b71118b4c65c29d474372", null ],
     [ "RVVI_MEMORY_PRIVILEGE_WRITE", "rvvi-api_8h.html#a02ccbc0cb402d038be95fd31179cd966", null ],
     [ "RVVI_MEMORY_PRIVILEGE_EXEC", "rvvi-api_8h.html#a9b8b81ff5d8401e552ca02590f85b6b0", null ],
+    [ "RVVI_API_VERSION", "rvvi-api_8h.html#a0fb8d68189c3fc404d935a4f63c13ed9", null ],
     [ "bool_t", "rvvi-api_8h.html#ab1b1024c82d82bf985835ee7a2bd7846", null ],
     [ "rvviMetricE", "rvvi-api_8h.html#aa70435433db30b51dd0e0fe0317aac7a", [
       [ "RVVI_METRIC_RETIRES", "rvvi-api_8h.html#aa70435433db30b51dd0e0fe0317aac7aab1077c8b1de946a885ea0b2056a6ace1", null ],
@@ -73,7 +75,6 @@ var rvvi_api_8h =
     [ "rvviRefCsrSet", "rvvi-api_8h.html#ac07174da11244a325c090f9c4ead219c", null ],
     [ "rvviRefStateDump", "rvvi-api_8h.html#ac5ebbfcf45bea9968a729e0e5d30eaa4", null ],
     [ "rvviRefProgramLoad", "rvvi-api_8h.html#a114f8ab2dd9bd0465ac4b0b59103b771", null ],
-    [ "rvviRefForceReconverge", "rvvi-api_8h.html#a30854a2f701380adad2f4b36f9a5de75", null ],
     [ "rvviRefCsrSetVolatileMask", "rvvi-api_8h.html#ab298a3c4b64202a9e9b994a08e1d7129", null ],
     [ "rvviDutCycleCountSet", "rvvi-api_8h.html#aeb9f9bf80e03a602a2b45db32688e3aa", null ],
     [ "rvviRefConfigSetInt", "rvvi-api_8h.html#a3c987ee1d494e9073ca192517d8e76bd", null ],

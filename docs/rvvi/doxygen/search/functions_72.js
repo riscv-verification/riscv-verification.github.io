@@ -24,7 +24,6 @@ var searchData=
   ['rvvirefcsrsetvolatile',['rvviRefCsrSetVolatile',['../rvvi-api_8h.html#a495f8a0f13b4ff70ddbff8312ac7165b',1,'rvvi-api.h']]],
   ['rvvirefcsrsetvolatilemask',['rvviRefCsrSetVolatileMask',['../rvvi-api_8h.html#ab298a3c4b64202a9e9b994a08e1d7129',1,'rvvi-api.h']]],
   ['rvvirefeventstep',['rvviRefEventStep',['../rvvi-api_8h.html#a9b2fba8be10ad3e8511f36b8dcf5a2bd',1,'rvvi-api.h']]],
-  ['rvvirefforcereconverge',['rvviRefForceReconverge',['../rvvi-api_8h.html#a30854a2f701380adad2f4b36f9a5de75',1,'rvvi-api.h']]],
   ['rvvireffprget',['rvviRefFprGet',['../rvvi-api_8h.html#aa45507e99e7114b0f5fd420f5667f172',1,'rvvi-api.h']]],
   ['rvvireffprname',['rvviRefFprName',['../rvvi-api_8h.html#ac7d0b3823da048c13985e3905590d31b',1,'rvvi-api.h']]],
   ['rvvireffprscompare',['rvviRefFprsCompare',['../rvvi-api_8h.html#abad35cc0d764323ffb7391850dca4c09',1,'rvvi-api.h']]],

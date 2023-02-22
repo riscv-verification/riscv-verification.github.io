@@ -2,6 +2,8 @@ var searchData=
 [
   ['rvvi_2dapi_2eh',['rvvi-api.h',['../rvvi-api_8h.html',1,'']]],
   ['rvvi_5fapi_5fversion',['RVVI_API_VERSION',['../rvvi-api_8h.html#a0fb8d68189c3fc404d935a4f63c13ed9',1,'rvvi-api.h']]],
+  ['rvvi_5fapi_5fversion_5fmajor',['RVVI_API_VERSION_MAJOR',['../rvvi-api_8h.html#a32082e9e6213b888a58667a9cd5a87bc',1,'rvvi-api.h']]],
+  ['rvvi_5fapi_5fversion_5fminor',['RVVI_API_VERSION_MINOR',['../rvvi-api_8h.html#a8c93473d15a4051d2c308f9aaafdecf1',1,'rvvi-api.h']]],
   ['rvvi_5ffalse',['RVVI_FALSE',['../rvvi-api_8h.html#ab452b73038b9502bdd1fc15f5f6a309f',1,'rvvi-api.h']]],
   ['rvvi_5finvalid_5findex',['RVVI_INVALID_INDEX',['../rvvi-api_8h.html#a7c613d49188bbeedfedc362d4c4f7064',1,'rvvi-api.h']]],
   ['rvvi_5fmemory_5fprivilege_5fexec',['RVVI_MEMORY_PRIVILEGE_EXEC',['../rvvi-api_8h.html#a9b8b81ff5d8401e552ca02590f85b6b0',1,'rvvi-api.h']]],
@@ -43,7 +45,6 @@ var searchData=
   ['rvvirefcsrsetvolatile',['rvviRefCsrSetVolatile',['../rvvi-api_8h.html#a495f8a0f13b4ff70ddbff8312ac7165b',1,'rvvi-api.h']]],
   ['rvvirefcsrsetvolatilemask',['rvviRefCsrSetVolatileMask',['../rvvi-api_8h.html#ab298a3c4b64202a9e9b994a08e1d7129',1,'rvvi-api.h']]],
   ['rvvirefeventstep',['rvviRefEventStep',['../rvvi-api_8h.html#a9b2fba8be10ad3e8511f36b8dcf5a2bd',1,'rvvi-api.h']]],
-  ['rvvirefforcereconverge',['rvviRefForceReconverge',['../rvvi-api_8h.html#a30854a2f701380adad2f4b36f9a5de75',1,'rvvi-api.h']]],
   ['rvvireffprget',['rvviRefFprGet',['../rvvi-api_8h.html#aa45507e99e7114b0f5fd420f5667f172',1,'rvvi-api.h']]],
   ['rvvireffprname',['rvviRefFprName',['../rvvi-api_8h.html#ac7d0b3823da048c13985e3905590d31b',1,'rvvi-api.h']]],
   ['rvvireffprscompare',['rvviRefFprsCompare',['../rvvi-api_8h.html#abad35cc0d764323ffb7391850dca4c09',1,'rvvi-api.h']]],
